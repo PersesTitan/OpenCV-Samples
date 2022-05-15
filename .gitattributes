@@ -2,3 +2,4 @@
 *.hpp linguist-vendored
 *.h linguist-vendored
 *.cmake linguist-vendored
+*.txt linguist-vendored
