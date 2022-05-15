@@ -1,3 +1,4 @@
 *.cpp linguist-vendored
 *.hpp linguist-vendored
 *.h linguist-vendored
+*.cmake linguist-vendored
