@@ -3,3 +3,5 @@
 *.h linguist-vendored
 *.cmake linguist-vendored
 *.txt linguist-vendored
+*.Makefile linguist-vendored
+*.mk linguist-vendored
